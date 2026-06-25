@@ -4,4 +4,3 @@ __pycache__/
 .env
 agents.db
 chroma_db/
-node_modules/
