@@ -1,7 +1,6 @@
 # Agent-Forger 🤖
 
-Agent-Forger is a powerful and flexible framework designed for building, managing, and deploying intelligent AI agents. Whether you're orchestrating complex multi-agent workflows or creating specialized generative AI assistants, Agent-Forger provides the foundational tools you need to bring your custom agents to life.
-
+Agent-Forge is an enterprise-grade, no-code AI agent platform that enables non-technical business teams to build, deploy, and schedule autonomous AI agents using plain natural language without developer intervention.
 ## ✨ Features
 
 * **Rapid Agent Creation:** Quickly forge new agents with customized system prompts, roles, and tool access.
